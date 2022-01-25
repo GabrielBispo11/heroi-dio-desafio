@@ -1,0 +1,16 @@
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio.deps.json
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio.runtimeconfig.json
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio.runtimeconfig.dev.json
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio.dll
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/ref/heroi-dio-desafio.dll
+/home/gabriel/heroi-dio-desafio/bin/Debug/net5.0/heroi-dio-desafio.pdb
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.csproj.AssemblyReference.cache
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.AssemblyInfoInputs.cache
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.AssemblyInfo.cs
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.csproj.CoreCompileInputs.cache
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.dll
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/ref/heroi-dio-desafio.dll
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.pdb
+/home/gabriel/heroi-dio-desafio/obj/Debug/net5.0/heroi-dio-desafio.genruntimeconfig.cache

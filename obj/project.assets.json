@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.csproj",
-      "projectName": "heroi-dio-desafio",
-      "projectPath": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.csproj",
+      "projectUniqueName": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.cs.csproj",
+      "projectName": "heroi-dio-desafio.cs",
+      "projectPath": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.cs.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
       "outputPath": "/home/gabriel/heroi-dio-desafio/obj/",
       "projectStyle": "PackageReference",

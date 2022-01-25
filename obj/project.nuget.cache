@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ayPTAHMcKQCL/DKZU1cOv4pqOtbd7tlNA5zpqEIxAu8syK+9kFBcN0gfiiKCB3Dxi/Yv7T/vt0K2256RQqdaqQ==",
+  "dgSpecHash": "27Zv9SoLAdO2VdHfOupuDmda0i1nyl9EIjPKMnDRGK448AyYQEHLhfpuj8ONkzYidyn8bA0Nfijy6SxdxFRmkA==",
   "success": true,
-  "projectFilePath": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.csproj",
+  "projectFilePath": "/home/gabriel/heroi-dio-desafio/heroi-dio-desafio.cs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
