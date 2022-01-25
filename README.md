@@ -1,3 +1,5 @@
-# Desafio Dio - Hérois
+# Dio Challenge - RPG Game (heroes)
 
-Neste desafio no Bootcamp GFT Start #3 .NET foi reforçado conhecimentos em Programação Orientada a Objetos (POO) em C#. Para isso, foi utilizado como contexto um jogo de RPG para desenvolver no usuário a capacidade de abstração e solidificar os quatros grandes pilares da POO, sendo: Herança, Encapsulamento Abstração e Polimorfismo. Como sugestão do [Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/)
+In this challenge at Bootcamp GFT Start #3 .NET, knowledge of Object Oriented Programming (OOP) in C# was reinforced. For this, an RPG game was used as a context to develop in the user the ability to abstract and solidify the four main pillars of OOP, namely: Inheritance, Encapsulation, Abstraction and Polymorphism. 
+
+As a suggestion of [Felipe Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/) another object was also created to compose the game, in this case the creation of the character Topapa.
